@@ -1,0 +1,6 @@
+{
+    "description": "Mountains!!!",
+    "model": "model/model.json",
+    "modelSize": 64,
+    "modelLatentDim": 128
+}
